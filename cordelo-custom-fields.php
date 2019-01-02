@@ -2,8 +2,8 @@
 /*
 Plugin Name:  Cordelo custom fields
 Plugin URI:   https://github.com/terjelundemotangen/cordelo-custom-fields
-Description:  Adds custom fields to Events
-Version:      1.0.0
+Description:  Adds custom fields to The Events Calendar (The Tribe)
+Version:      1.0.1
 Author:       Terje Lundemo Tangen
 Author URI:   https://cordelo.com/
 License:      GPL3
