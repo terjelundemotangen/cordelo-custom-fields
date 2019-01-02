@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name:  Cordelo custom fields
-Plugin URI:   https://cordelo.com/
+Plugin URI:   https://github.com/terjelundemotangen/cordelo-custom-fields
 Description:  Adds custom fields to Events
 Version:      1.0.0
 Author:       Terje Lundemo Tangen
